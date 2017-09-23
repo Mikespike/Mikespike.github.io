@@ -20,7 +20,7 @@ html {
 body {
 	 background-image: url("https://i.pinimg.com/originals/49/ef/9c/49ef9cc2fc206177704f21becb7fa2cb.jpg");
   font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  color: #c90a0a;
 }
 
 .container {
@@ -69,7 +69,7 @@ p {
 }
 
 a {
-  color: $blue;
+  color: #c90a0a;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
@@ -117,7 +117,7 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: #c90a0a;
 }
 
 // Specify the color of the selection
