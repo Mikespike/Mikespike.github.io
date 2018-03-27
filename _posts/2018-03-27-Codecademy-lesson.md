@@ -3,19 +3,20 @@ title: Codecademy lesson
 layout: post
 author: michael.williams
 permalink: /codecademy-lesson/
-source-id: 1Do90_i_wGyx7v3xqOvUGrz7IaJ-PhhfnsYTJDEgiqA8
+source-id: 195y8m8WefukUAgWHkfbw_bk8dfSe-q5aAioVSzXusYQ
 published: true
 ---
-**Codecademy lesson**
+**_Codecademy lesson 2.0_**
 
 <table>
   <tr>
     <td>What happened:
-In this lesson we did more codecademy. In codecademy I did some more of the shopping topic. This basically meant I learned how to make dictionaries and so was able to store food in it. That's what was supposed to happen, what instead happened was there was a glitch so that even when I did get the answer, it was wrong because of a certain glitch in the system where a line of code had to be spelled differently in a way that we hadn’t even learned. This took up a lot of the lesson for me trying to go through different possibilities for what I was allowed to do and after a certain point I gave up and asked the teacher who explained what happened.</td>
+In short we carried on the work we did last lesson on codecademy. To go into more detail I worked on and finished up on my 'student becomes the teacher' course and so moved on to ‘loops and functions’. I think the ‘student becomes the teacher’ course was quite helpful because it introduced some rather difficult mechanics in my view and made me have to understand them to get through so while it did take me a considerably long time to finish the course, it improved my mind and helped me learn.
+I think the next section, the section on ‘loops and functions’ it was mostly just a really good recap and showed me how I’d basically forgotten almost everything about functions but this section gave me a good refresher which I found very useful. Also, this lesson was quite useful as (similar to the last point) I found out that I do need to go back to previous exercises otherwise I won't be able to do future lessons properly, absorbing as much information as I'll just be trying to remember what so and so does and how to do it. </td>
   </tr>
   <tr>
-    <td>How could I improve:
-I think that while I couldn’t answer some of the questions, some I could but it still took me time. I think that a lot of time could have been saved if I’d gone back through past pieces of work or looked online for the answer because it’s better to move on to different questions rather than just fumble on one question. It’s also important because sometimes I admit that in my annoyance and complete lack of knowledge I sometimes used the solution button when it would’ve been a lot better if I’d tried to use the internet or past exercises to help me as it would’ve also unforced my memory.</td>
+    <td>What I could have improved:
+I think that the major thing I need to improve upon is the fact that I need to go back to past sections to recap on how to do certain things as I am starting to majorly struggle without doing this. This will unfortunately mean for me (or fortunately) that I will have to do extra work so as to be able to continue codecademy at my current rate as well as going through past exercises again. </td>
   </tr>
 </table>
 
